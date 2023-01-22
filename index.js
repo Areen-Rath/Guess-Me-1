@@ -15,7 +15,7 @@ let words = [
 var word;
 
 $(document).ready(function() {
-    this.getWord();
+    getWord();
 });
 
 function getWord() {
